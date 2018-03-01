@@ -1,3 +1,3 @@
 # my-demo
 
-Github Enterprise IS AWESOME!!
+Github Enterprise Is AWESOME!!
